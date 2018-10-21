@@ -1,0 +1,21 @@
+.btn.btn-primary {	
+	background: #3f965f none repeat scroll 0 0;
+  	border-color: #3f965f;
+ }
+
+ body{
+
+    background-color: #87bc9b;
+}
+
+.container {
+	margin-top: 20px;
+}
+
+.graph {
+	width: 100%; 
+	margin: 0 auto; 
+	margin-top: 20px; 
+	border: none; 
+	display: block;
+}

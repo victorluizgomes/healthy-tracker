@@ -2,8 +2,9 @@ body{
 
     background-color: #87bc9b;
 }
-.page {
-	margin-top: 20px;
+
+.btn-group-toggle {
+    margin: 0 auto;
 }
 
 .centering {
@@ -16,6 +17,7 @@ body{
 
 .questions {
 	margin-top: 20px;
+    text-align: center;
 }
 
 .buttons {
@@ -25,14 +27,14 @@ body{
 
 #scoreDisplay{
 
-    margin: 0 auto;
-    display: inline-block;
+    margin: 20px 0;
     text-align: center;
 }
 
 #viewProgress{
 
     background-color: #3f965f;
+    border-color: #3f965f;
 }
 .reveal{
 
