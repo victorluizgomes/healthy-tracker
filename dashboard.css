@@ -1,3 +1,7 @@
+body{
+
+    background-color: #87bc9b;
+}
 .page {
 	margin-top: 20px;
 }
@@ -17,4 +21,22 @@
 .buttons {
 	padding-left: 20px;
 	padding-right: 20px;
+}
+
+#scoreDisplay{
+
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+}
+
+#viewProgress{
+
+    background-color: #3f965f;
+}
+.reveal{
+
+    background-color: blue;
+    width: 80px;
+    height: 40px;
 }
