@@ -1,6 +1,6 @@
 Healthy Habit Helper is a simple web app that is made to encourage young adults to live a healthy life style. Helping them keep track of the healthy goals that are important to them in a easy way.
 
-A project developed for the 2018 University of Arizona Women's Hackathon, Winner of the 'Create' prize.
+A project developed for the 2018 [University of Arizona Women's Hackathon](https://womenshackathon.arizona.edu/), [Winner of the 'Create' prize.](https://twitter.com/UAWomenHack/status/1054163856195432448)
 Group: Victor Gomes, Seth Marks, Dyana Muller and Maureen Palmer.
 
 To run start at login.html
