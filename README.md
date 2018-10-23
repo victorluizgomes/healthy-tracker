@@ -5,4 +5,4 @@ Group: Victor Gomes, Seth Marks, Dyana Muller and Maureen Palmer.
 
 To run start at login.html
 
-TODO: Many of the features (like login and the graph connection between python and the website) were hardcoded because of the limited time we had to complete the project.
+TODO: Many of the features (like login and the graph connection between python and the website) were hardcoded because of the limited time (less then 24hrs) we had to complete the project.
